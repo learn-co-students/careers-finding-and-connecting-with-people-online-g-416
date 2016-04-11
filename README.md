@@ -19,7 +19,7 @@ Here are some other places where you can research people to connect with online:
 * Online communities/forums (LinkedIn groups, StackOverflow, Reddit)
 * GitHub
 
-To keep track of your research, you create a spreadsheet. Use your job tracking spreadsheet you created in Unit 1 and keep this outreach in a separate tab if that’s helpful for you.
+To keep track of your research, create a spreadsheet. Use your job tracking spreadsheet you created in Unit 1 and keep this outreach in a separate tab if that’s helpful for you.
 
 ## How to Find an Email Address
 
@@ -71,9 +71,32 @@ When you’re ready to send an email, here’s a few things to keep in mind so y
 
 **Don’t forget to thank them.** Thinking into the future once you’ve established contact and had a coffee meeting, don’t forget to follow up with a thank you. In future lessons we address the specifics of these. Additionally, should this new contact actually be responsible for introducing you to your next job, you need to go out of your way to thank that person. Even consider sending them a small gift (like a plant or a bottle of wine) as a token of your appreciation. 
 
-## Conclusion 
+## It's All About Relationship Building
 
 You don’t need to be face-to-face to form strong professional relationships —you can take part in relationship-building online. What matters is **how** you approach them. In the end, be clear, concise, and respectful of them and their time. Just like meeting in real-life, first impressions are also formed digitally.
+
+## Assignment- Finding and Connecting with People 
+
+Create a Google doc. Remember to retitle it ""Your Name" + Finding and Connecting with People."
+
+Find three people you would like to connect with. In your doc, list these three people and a few words/lines as to why you'd like to connect with them. 
+
+Then using the tips above, write a draft of a customized email that you would send to one of these people you've listed. 
+
+**Submit** your resume to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Finding and Connecting with People”
+
+In the body of your email again include:
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url to this specific Google document
+
+Update your Careers Prep Tracker sheet with the date submitted.
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-finding-and-connecting-with-people-online'>Careers Finding and Connecting with People Online </a> on Learn.co and start learning to code for free.</p>
